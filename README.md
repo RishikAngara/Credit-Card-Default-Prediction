@@ -8,4 +8,4 @@ The dataset used for this project is the UCI Credit Card Default dataset. It con
 The main notebook of this project is Credit_Card_Default_Prediction.ipynb. It contains the code and documentation for the entire data analysis and modeling process. The notebook utilizes Python and various libraries such as pandas, matplotlib, seaborn, sklearn, and numpy.
 
 # Results
-The credit card default prediction model achieved an accuracy of X% on the test set. The detailed analysis and evaluation of the model's performance can be found in the notebook
+The credit card default prediction model achieved an accuracy of 85% on the test set. The detailed analysis and evaluation of the model's performance can be found in the notebook
